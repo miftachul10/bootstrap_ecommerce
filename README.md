@@ -2,4 +2,4 @@
 
 ##  Preview Web
 
-[Demo](https://miftachul10.github.io/bootstrap_ecommerce/)
+[Demo project](https://miftachul10.github.io/bootstrap_ecommerce/)
